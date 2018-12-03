@@ -8,4 +8,3 @@ node_modules
 _site
 assets/css
 .zip
-gulpfile.js
