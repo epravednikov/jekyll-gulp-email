@@ -1,0 +1,8 @@
+encoding: utf-8
+markdown: kramdown
+baseurl: ''
+permalink: /:categories/:title/
+include: ['_pages']
+exclude: ['README.md', 'mail', 'node_modules', 'gulpfile.js', 'package.json','megatrash', 'paths.json']
+includes_dir: ./_components
+data_dir: ./_components
