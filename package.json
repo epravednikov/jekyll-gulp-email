@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "browser-sync": "^1.9.2",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-copy": "0.0.2",
+    "gulp-csso": "^2.0.0",
+    "gulp-inline-css": "^3.1.0",
+    "gulp-install": "^0.6.0",
+    "gulp-mail": "^0.1.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-prompt": "^0.2.0",
+    "gulp-remove-empty-lines": "0.0.8",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^2.1.0",
+    "gulp-sftp": "^0.1.5",
+    "gulp-uglify": "^1.5.1",
+    "gulp-url-replace": "^1.0.2",
+    "gulp-util": "^3.0.7",
+    "gulp-zip": "^3.2.0",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {
+    "gulp-cheerio": "^0.6.2",
+    "gulp-delete-unused-images": "0.0.4",
+    "gulp-unused-images": "^1.1.1"
+  }
+}

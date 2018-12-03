@@ -1,0 +1,11 @@
+.idea
+**/.DS_Store
+.DS_Store
+**/npm-debug.log
+npm-debug.log
+node_modules
+.sass-cache
+_site
+assets/css
+.zip
+gulpfile.js
